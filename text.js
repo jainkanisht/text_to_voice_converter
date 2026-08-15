@@ -5,3 +5,5 @@ document.querySelector("button").addEventListener("click", () => {
 });
 
 // this is js file
+
+// giving up is not even in the blood sir.
